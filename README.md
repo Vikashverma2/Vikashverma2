@@ -48,7 +48,7 @@
 
 
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashverma2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vikashverma2" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashverma2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vikashverma2" /></p>
 
 
 <p><img align="center"   src="https://github-readme-streak-stats.herokuapp.com/?user=vikashverma2&&theme=tokyonight" alt="vikashverma2" /></p>
