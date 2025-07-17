@@ -6,7 +6,7 @@
 
 
 
-<img align="left" height="190" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="left" height="180" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <br/>
 <span align="left">  💻 I specialize in frontend and backend web development.</span><br/>
@@ -16,7 +16,7 @@
 <span align="left">  🚀 Passionate about building projects with real-world impact.</span><br/>
 <span align="left">  📚 Always eager to learn and improve my skills.</span><br/>
 
-
+<br/>
 <br/>  
 <br/>
 
@@ -48,24 +48,13 @@
 
 
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashverma2&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
-    alt="vikashverma2" 
-    style="width: 100%; max-width: 400px; margin: 10px;" 
-  />
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashverma2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vikashverma2" /></p>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vikashverma2&&theme=tokyonight" 
-    alt="vikashverma2" 
-    style="width: 100%; max-width: 500px; margin: 10px;" 
-  />
 
-</div>
+<p><img align="center"   src="https://github-readme-streak-stats.herokuapp.com/?user=vikashverma2&&theme=tokyonight" alt="vikashverma2" /></p>
 
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashverma2&label=Profile%20views&color=0e75b6&style=flat" alt="vikashverma2" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vikashverma2&label=Profile%20views&color=0e75b6&style=flat" alt="vikashverma2" /> </p>
 
