@@ -6,7 +6,7 @@
 
 
 
-<img align="left" height="190" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="left" height="170" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <br/>
 <span align="left">  💻 I specialize in frontend and backend web development.</span><br/>
@@ -48,10 +48,23 @@
 
 
 
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashverma2&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vikashverma2" /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashverma2&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+    alt="vikashverma2" 
+    style="width: 100%; max-width: 40%;" 
+  />
+</p>
 
-
-<p><img align="center" width="56%"  src="https://github-readme-streak-stats.herokuapp.com/?user=vikashverma2&&theme=tokyonight" alt="vikashverma2" /></p>
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vikashverma2&&theme=tokyonight" 
+    alt="vikashverma2" 
+    style="width: 100%; max-width: 56%;" 
+  />
+</p>
 
 
 <br/>
