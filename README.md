@@ -6,7 +6,7 @@
 
 
 
-<img align="left" height="170" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="left" height="160" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <br/>
 <span align="left">  💻 I specialize in frontend and backend web development.</span><br/>
@@ -43,10 +43,7 @@
 <br/>
 
 
- </p> </p>
-
-
-
+<p></p>
 
 <p>
   <img 
@@ -65,6 +62,7 @@
     style="width: 100%; max-width: 56%;" 
   />
 </p>
+
 
 
 <br/>
