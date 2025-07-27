@@ -11,26 +11,24 @@
 <br/>
 <span align="left">  💻 I specialize in frontend and backend web development.</span><br/>
 <span align="left">  🎨 I create responsive, user-friendly, and clean interfaces.</span><br/>
-<span align="left">  ⚛️ Skilled in React.js, MongoDB, and modern frameworks.</span><br/>
+<span align="left">  ⚛️ Skilled in  React.js, MongoDB, and modern frameworks.</span><br/>
 <span align="left">  🎯  Experienced in UI/UX design using Figma and Canva.</span><br/>
 <span align="left">  🚀 Passionate about building projects with real-world impact.</span><br/>
 <span align="left">  📚 Always eager to learn and improve my skills.</span><br/>
+<span align="left">  🌱 I’m currently learning ** .Net Web API **</span><br/>
 
 <br/>
 <br/>  
-<br/>
-
-🌱 I’m currently learning **.Net**
 <br/>
 📫 How to reach me **mr.vikashvermaeng@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikashverma2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikashverma2/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vikashverma0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vikashverma0/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vikashverma04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vikashverma04/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/vikashverma22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/vikashverma22" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikashverma2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikashverma2/" height="30" width="40" /></a>
+<a href="https://fb.com/vikashverma0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vikashverma0/" height="30" width="40" /></a>
+<a href="https://instagram.com/vikashverma04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vikashverma04/" height="30" width="40" /></a>
+<a href="https://dribbble.com/vikashverma22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/vikashverma22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vikashverma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikashverma2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikashverma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikashverma2" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vikashverma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vikashverma2" height="30" width="40" /></a>
