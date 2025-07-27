@@ -7,7 +7,6 @@
 
 
 <img align="left" height="180" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
-<br/>
 
 <span align="left">  💻 I specialize in frontend and backend web development.</span><br/>
 <span align="left">  🎨 I create responsive, user-friendly, and clean interfaces.</span><br/>
