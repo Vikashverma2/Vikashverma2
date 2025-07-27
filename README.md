@@ -7,6 +7,7 @@
 
 
 <img align="left" height="180" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<br/>
 
 <span align="left">  💻 I specialize in frontend and backend web development.</span><br/>
 <span align="left">  🎨 I create responsive, user-friendly, and clean interfaces.</span><br/>
@@ -14,7 +15,7 @@
 <span align="left">  🎯  Experienced in UI/UX design using Figma and Canva.</span><br/>
 <span align="left">  🚀 Passionate about building projects with real-world impact.</span><br/>
 <span align="left">  📚 Always eager to learn and improve my skills.</span><br/>
-<span align="left">  🌱 I’m currently learning ** .Net Web API **</span><br/>
+<span align="left">  🌱 I’m currently learning **ASP.Net** </span><br/>
 
 
 <br/>  
