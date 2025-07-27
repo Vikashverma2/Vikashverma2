@@ -8,7 +8,6 @@
 
 <img align="left" height="180" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-<br/>
 <span align="left">  💻 I specialize in frontend and backend web development.</span><br/>
 <span align="left">  🎨 I create responsive, user-friendly, and clean interfaces.</span><br/>
 <span align="left">  ⚛️ Skilled in  React.js, MongoDB, and modern frameworks.</span><br/>
@@ -17,7 +16,7 @@
 <span align="left">  📚 Always eager to learn and improve my skills.</span><br/>
 <span align="left">  🌱 I’m currently learning ** .Net Web API **</span><br/>
 
-<br/>
+
 <br/>  
 <br/>
 📫 How to reach me **mr.vikashvermaeng@gmail.com**
