@@ -6,20 +6,19 @@
 
 
 
-<img align="left" height="160" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="left" height="180" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-<span align="left">  💻 I specialize in **Frontend** and **Backend** web development.</span><br/>
-<span align="left">  🎨 I create responsive, user-friendly, and clean interfaces.</span><br/>
-<span align="left">  ⚛️ Skilled in  **React.js**, **ASP.NET**, **MongoDB**, and modern frameworks.</span><br/>
-<span align="left">  🎯  Experienced in UI/UX design using **Figma** and **Canva**.</span><br/>
-<span align="left">  🚀 Passionate about building projects with real-world impact.</span><br/>
-<span align="left">  📚 Always eager to learn and improve my skills.</span><br/>
-<span align="left">  🌱 I’m currently learning **ASP.Net** </span><br/>
+<span align="left">   💻  I specialize in **Frontend** and **Backend** Web development.</span><br/>
+<span align="left">   🎨  I create responsive, user-friendly, and clean interfaces.</span><br/>
+<span align="left">   ⚛️  Skilled in  **React.js**, **ASP.NET**, **MongoDB**.</span><br/>
+<span align="left">   🎯  Experienced in UI/UX design using **Figma** and **Canva**.</span><br/>
+<span align="left">   🚀  Passionate about building projects with real-world impact.</span><br/>
+<span align="left">   📚  Always eager to learn and improve my skills.</span><br/>
+<span align="left">   🌱  I’m currently learning **ASP.Net** </span><br/>
+<span align="left">   📫  How to reach me **mr.vikashvermaeng@gmail.com** </span><br/>
 
 
 <br/>  
-<br/>
-📫 How to reach me mr.vikashvermaeng@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
