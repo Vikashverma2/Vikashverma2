@@ -10,11 +10,11 @@
 
 <span align="left">   💻  I specialize in **Frontend** and **Backend** Web development.</span><br/>
 <span align="left">   🎨  I create responsive, user-friendly, and clean interfaces.</span><br/>
-<span align="left">   ⚛️  Skilled in  **React.js**, **ASP.NET**, **MongoDB**.</span><br/>
+<span align="left">   ⚛️  Skilled in  **React.js**, **ASP.NET Core**, **MongoDB**.</span><br/>
 <span align="left">   🎯  Experienced in UI/UX design using **Figma** and **Canva**.</span><br/>
 <span align="left">   🚀  Passionate about building projects with real-world impact.</span><br/>
 <span align="left">   📚  Always eager to learn and improve my skills.</span><br/>
-<span align="left">   🌱  I’m currently learning **ASP.Net** </span><br/>
+<span align="left">   🌱  I’m currently learning **ASP.NET** </span><br/>
 <span align="left">   📫  How to reach me **mr.vikashvermaeng@gmail.com** </span><br/>
 
 
