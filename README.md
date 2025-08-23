@@ -14,7 +14,7 @@
 <span align="left">   🎯  Experienced in UI/UX design using **Figma** and **Canva**.</span><br/>
 <span align="left">   🚀  Passionate about building projects with real-world impact.</span><br/>
 <span align="left">   📚  Always eager to learn and improve my skills.</span><br/>
-<span align="left">   🌱  I’m currently learning **ASP.NET** </span><br/>
+<span align="left">   🌱  I’m currently learning **.NET Core** </span><br/>
 <span align="left">   📫  How to reach me **mr.vikashvermaeng@gmail.com** </span><br/>
 
 
